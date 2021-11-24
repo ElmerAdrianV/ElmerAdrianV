@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElmerAdrianV
 - 👀 I’m interested in F1 and topics about math and CS..
-- 🌱 I’m currently study a BS in Applied Math and Computer Engineering @ itam.mx
+- 🌱 I’m currently studying a BS in Applied Math and Computer Engineering @ itam.mx
 - 💞️ I’m looking to collaborate on all the projects that can help me to grow and improve, I'm always looking to learn new skills and improve my problem solve skills.
 - 📫 How to reach me? In elmeradrianv@outlook.com.
