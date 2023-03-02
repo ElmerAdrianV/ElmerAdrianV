@@ -6,3 +6,7 @@
 - 📫 How to reach me? In elmeradrianv@outlook.com.
 ### My GitHub Stats
 [![ElmerAdrianV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElmerAdrianV&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12147114816&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
