@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElmerAdrianV
-- 👀 I’m interested in F1 and topics about math and CS..
+- 👀 I’m interested in F1 and topics about math and CS and sport climbing ⛰.
 - 🌱 I’m currently studying a BS in Applied Math and Computer Engineering @ [itam.mx](https://www.itam.mx) and working as Software Engineering in  self-entrepreneur Cluster.
 - 💼 Experience as SWE intern in Meta University Program and Explore SWE in Microsoft and Incoming SWE Intern at Microsoft for Summer 2024
 - 💞️ I’m looking to collaborate on all the projects that can help me to grow and improve, I'm always looking to learn new skills and improve my problem solve skills.
