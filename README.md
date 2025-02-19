@@ -9,7 +9,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmeradrianv&layout=compact&theme=dark" /></a>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ElmerAdrianV&theme=dark" alt="GitHub Streak" /></a>
+
 ### Visitor count
 <img src="https://profile-counter.glitch.me/elmeradrianv/count.svg" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElmerAdrianV&theme=dark)](https://git.io/streak-stats)
+
