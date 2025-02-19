@@ -12,4 +12,4 @@
 ### Visitor count
 <img src="https://profile-counter.glitch.me/elmeradrianv/count.svg" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElmerAdrianV)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElmerAdrianV&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
