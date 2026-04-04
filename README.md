@@ -5,7 +5,4 @@
 - 💼 Experience as SWE intern in Meta University Program and 3rd time SWE intern at Microsoft.
 - 💞️ I’m looking to collaborate on all the projects that can help me to grow and improve, I'm always looking to learn new skills and improve my problem solve skills.
 - 📫 How to reach me? In elmeradrianv@outlook.com.
-### My GitHub Stats
-[![ElmerAdrianV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElmerAdrianV&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmeradrianv&layout=compact&theme=dark" /></a>
